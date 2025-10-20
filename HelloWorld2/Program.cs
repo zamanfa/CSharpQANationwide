@@ -10,8 +10,7 @@ namespace HelloWorld2
             Console.WriteLine("Hello " + name);
             Console.WriteLine("Hello World 2!");
             Console.WriteLine("Hello World 3!");
-
-
+            Console.WriteLine("Hello Git!");
         }
     }
 }
